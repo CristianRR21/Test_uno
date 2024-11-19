@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usuario\\Desktop\\REPASO_ELIMINAR\\prueba_1_githunb\\prueba_1_githunb\\prueba_1_githunb.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\Downloads\\7\\Test_uno\\prueba_1_githunb.csproj",
       "projectName": "prueba_1_githunb",
-      "projectPath": "C:\\Users\\usuario\\Desktop\\REPASO_ELIMINAR\\prueba_1_githunb\\prueba_1_githunb\\prueba_1_githunb.csproj",
+      "projectPath": "C:\\Users\\usuario\\Downloads\\7\\Test_uno\\prueba_1_githunb.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usuario\\Desktop\\REPASO_ELIMINAR\\prueba_1_githunb\\prueba_1_githunb\\obj\\",
+      "outputPath": "C:\\Users\\usuario\\Downloads\\7\\Test_uno\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

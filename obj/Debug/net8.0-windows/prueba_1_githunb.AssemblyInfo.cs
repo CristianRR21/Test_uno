@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("prueba_1_githunb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df7b594adfca2dbf94b258ce1ae8c1afb67843d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("prueba_1_githunb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("prueba_1_githunb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

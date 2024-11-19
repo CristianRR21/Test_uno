@@ -1,0 +1,16 @@
+C:\Users\usuario\Desktop\REPASO_ELIMINAR\prueba_1_githunb\prueba_1_githunb\bin\Debug\net8.0-windows\prueba_1_githunb.exe
+C:\Users\usuario\Desktop\REPASO_ELIMINAR\prueba_1_githunb\prueba_1_githunb\bin\Debug\net8.0-windows\prueba_1_githunb.deps.json
+C:\Users\usuario\Desktop\REPASO_ELIMINAR\prueba_1_githunb\prueba_1_githunb\bin\Debug\net8.0-windows\prueba_1_githunb.runtimeconfig.json
+C:\Users\usuario\Desktop\REPASO_ELIMINAR\prueba_1_githunb\prueba_1_githunb\bin\Debug\net8.0-windows\prueba_1_githunb.dll
+C:\Users\usuario\Desktop\REPASO_ELIMINAR\prueba_1_githunb\prueba_1_githunb\bin\Debug\net8.0-windows\prueba_1_githunb.pdb
+C:\Users\usuario\Desktop\REPASO_ELIMINAR\prueba_1_githunb\prueba_1_githunb\obj\Debug\net8.0-windows\prueba_1_githunb.Form1.resources
+C:\Users\usuario\Desktop\REPASO_ELIMINAR\prueba_1_githunb\prueba_1_githunb\obj\Debug\net8.0-windows\prueba_1_githunb.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\REPASO_ELIMINAR\prueba_1_githunb\prueba_1_githunb\obj\Debug\net8.0-windows\prueba_1_githunb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\REPASO_ELIMINAR\prueba_1_githunb\prueba_1_githunb\obj\Debug\net8.0-windows\prueba_1_githunb.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\REPASO_ELIMINAR\prueba_1_githunb\prueba_1_githunb\obj\Debug\net8.0-windows\prueba_1_githunb.AssemblyInfo.cs
+C:\Users\usuario\Desktop\REPASO_ELIMINAR\prueba_1_githunb\prueba_1_githunb\obj\Debug\net8.0-windows\prueba_1_githunb.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\REPASO_ELIMINAR\prueba_1_githunb\prueba_1_githunb\obj\Debug\net8.0-windows\prueba_1_githunb.dll
+C:\Users\usuario\Desktop\REPASO_ELIMINAR\prueba_1_githunb\prueba_1_githunb\obj\Debug\net8.0-windows\refint\prueba_1_githunb.dll
+C:\Users\usuario\Desktop\REPASO_ELIMINAR\prueba_1_githunb\prueba_1_githunb\obj\Debug\net8.0-windows\prueba_1_githunb.pdb
+C:\Users\usuario\Desktop\REPASO_ELIMINAR\prueba_1_githunb\prueba_1_githunb\obj\Debug\net8.0-windows\prueba_1_githunb.genruntimeconfig.cache
+C:\Users\usuario\Desktop\REPASO_ELIMINAR\prueba_1_githunb\prueba_1_githunb\obj\Debug\net8.0-windows\ref\prueba_1_githunb.dll

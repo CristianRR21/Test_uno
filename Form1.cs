@@ -12,5 +12,10 @@ namespace prueba_1_githunb
             MessageBox.Show("este es el mensaje numero uno");
 
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
